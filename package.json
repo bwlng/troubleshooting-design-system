@@ -1,6 +1,5 @@
 {
   "name": "@bwlng/troubleshooting-design-system",
-  "private": true,
   "version": "0.0.2",
   "description": "A example component library for troubleshooting using React Aria Components",
   "author": "Stephen Bowling",
